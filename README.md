@@ -25,5 +25,9 @@
 - 성명 : 이름
 - 이메일: example@email.com
 
+## 담당자
+
+- 블루맵(주) 조경민 jogm@bluemap.dev
+
 ---
 
